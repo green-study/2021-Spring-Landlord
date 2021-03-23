@@ -5,8 +5,8 @@
 번호|주제|설명
 -----|---|--
 1|HTTP의 기본 동작, PHP 기초|Github 설정
-2|Form과 Method, 헤더|
-3|쿠키, 세션|로그인 실습
+2|Form과 Method, 헤더|간단 계산기 구현
+3|쿠키, 세션|로그인 구현
 4|DBMS와 SQL|유저 스키마
 5|SQL Injection과 Prepared Statement|로그인(DB사용)
 6|게시판과 CRUD 설계하기|게시판 스키마
