@@ -1,1 +1,6 @@
-<? echo "hello landlord!" ?>
+<? 
+
+// this code prints hello landlord!
+echo "hello landlord!";
+
+?>
