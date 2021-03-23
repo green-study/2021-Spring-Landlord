@@ -8,7 +8,7 @@
 ## 활동 일정
 회차|주제|실습
 -----|---|--
-1|HTTP의 기본 동작, PHP 기초|Github 설정
+1|HTTP의 기본 동작, PHP 기초|Hello, Landlord!
 2|Form과 Method, 헤더|간단 계산기 구현
 3|쿠키, 세션|로그인 구현
 4|DBMS와 SQL|유저 스키마
